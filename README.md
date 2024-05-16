@@ -1,2 +1,2 @@
-# hello-world
-This is ops lab1 repository
+**Name: Aashirbad Shahi
+Section: OPS445NAA**

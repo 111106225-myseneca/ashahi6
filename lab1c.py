@@ -9,14 +9,22 @@ print(num1)
 print(num2)
 
 # Adding the values of the integer objects and storing it in a new object
-sum = num1 + num2
+total_sum = num1 + num2
 
 # Printing the value of the new object
-print(sum)
+print(total_sum)
 
 # Trying to concatenate a string with an integer object (this will cause an error)
-# print('The sum is: ' + sum)
+# print('The sum is: ' + total_sum)
 
 # Converting the integer object to a string and concatenating it with a string
-print('The sum is: ' + str(sum))
+print('The sum is: ' + str(total_sum))
+
+# Defining objects for name and age
+name = 'Isaac'
+age = 72
+
+# Printing out the formatted string
+print(name + ' is ' + str(age) + ' years old!')
+
 

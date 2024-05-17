@@ -1,14 +1,9 @@
 #!/usr/bin/env python3
 
-# Assigning a string to an object
-name = 'Thomas'
+# Define the name variable
+name = 'Isaac'
 
-# Printing the value of the object
-print(name)
+# Print the concatenated string
+print('How old are you ' + name + '?')
 
-# Printing the name of the object (as a string)
-print('name')
-
-# Concatenating the string with another string
-print('I have a friend named ' + name)
 
